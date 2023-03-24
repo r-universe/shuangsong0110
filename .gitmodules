@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CorBin"]
+	path = CorBin
+	url = https://github.com/cran/CorBin
+	shallow = true
+	registered = true
+[submodule "EBPRS"]
+	path = EBPRS
+	url = https://github.com/cran/EBPRS
+	shallow = true
+	registered = true
